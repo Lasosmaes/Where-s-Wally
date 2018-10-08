@@ -1,0 +1,3 @@
+C:\Temp\cMcRae\MyProject\Source\MyProject\MyProject.Build.cs
+C:\Temp\cMcRae\MyProject\Source\MyProject.Target.cs
+C:\Temp\cMcRae\MyProject\Source\MyProjectEditor.Target.cs

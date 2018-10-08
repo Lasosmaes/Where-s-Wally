@@ -379,3 +379,355 @@ LogInit: Object subsystem initialized
 [2018.10.08-17.07.47:348][734]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
 [2018.10.08-17.07.47:382][734]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2575 classes and 607 folders.
 [2018.10.08-17.07.47:385][734]Display: HotReload took  0.1s.
+[2018.10.08-17.11.54:928][423]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.10.08-17.11.54:928][423]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.10.08-17.11.54:928][423]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.10.08-17.11.54:928][423]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.10.08-17.11.54:928][423]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.10.08-17.11.54:928][423]LogWindows: Warning: URL: C:\Users\cm1crt\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.10.08-17.11.54:928][423]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.10.08-17.11.54:928][423]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.10.08-17.11.54:928][423]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.10.08-17.11.54:928][423]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.10.08-17.11.54:929][423]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.10.08-17.11.54:929][423]LogWindows: Warning: URL: C:\Users\cm1crt\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.10.08-17.11.54:929][423]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.10.08-17.11.54:929][423]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.10.08-17.11.57:432][712]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.08-17.11.57:988][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-17.11.58:212][797]SourceControl: Source control is disabled
+[2018.10.08-17.11.58:212][797]LogSlate: Window 'Source Control Login' being destroyed
+[2018.10.08-17.25.20:860][695]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.08-17.25.20:937][696]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2018.10.08-17.25.20:937][696]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.08-17.25.20:937][696]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.08-17.25.20:937][696]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.08-17.25.20:937][696]LogTemp: BranchPath = AMTX222-24/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = AMTX222-24/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.08-17.25.20:964][697]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\cm1crt\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.08-17.27.51:038][553]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.08-17.27.51:041][553]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.08-17.27.52:566][717]LogEditor: Attempting to add actor of class 'Wally' to level at -500.00,-210.00,108.00
+[2018.10.08-17.27.53:295][790]LogEditor: Attempting to add actor of class 'Wally' to level at -320.00,-20.00,108.00
+[2018.10.08-17.27.54:945][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-17.27.55:053][993]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.08-17.27.55:076][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.08-17.27.55:088][993]PIE: New page: PIE session: Untitled_1 (8 Oct 2018 19:27:55)
+[2018.10.08-17.27.55:088][993]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.10.08-17.27.55:091][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003060s)
+[2018.10.08-17.27.55:092][993]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.08-17.27.55:092][993]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2018.10.08-17.27.55:092][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004035s)
+[2018.10.08-17.27.55:117][993]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.08-17.27.55:126][993]LogInit: FAudioDevice initialized.
+[2018.10.08-17.27.55:171][993]LogLoad: Game class is 'GameModeBase'
+[2018.10.08-17.27.55:173][993]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.10.08-18.27.55
+[2018.10.08-17.27.55:238][993]LogWorld: Bringing up level for play took: 0.065467
+[2018.10.08-17.27.55:257][993]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.10.08-17.27.55:258][993]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.777
+[2018.10.08-17.28.04:582][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.28.04:676][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.08-17.28.04:695][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.28.04:713][107]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.10.08-17.28.05:727][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-17.28.24:115][516]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.08-17.28.24:144][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.08-17.28.24:144][516]PIE: New page: PIE session: Untitled_1 (8 Oct 2018 19:28:24)
+[2018.10.08-17.28.24:144][516]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.10.08-17.28.24:148][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003514s)
+[2018.10.08-17.28.24:149][516]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.08-17.28.24:149][516]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2018.10.08-17.28.24:149][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005008s)
+[2018.10.08-17.28.24:181][516]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.08-17.28.24:189][516]LogInit: FAudioDevice initialized.
+[2018.10.08-17.28.24:220][516]LogLoad: Game class is 'GameModeBase'
+[2018.10.08-17.28.24:221][516]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.10.08-18.28.24
+[2018.10.08-17.28.24:222][516]LogWorld: Bringing up level for play took: 0.000888
+[2018.10.08-17.28.24:235][516]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.246
+[2018.10.08-17.28.54:890][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.28.59:649][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.28.59:679][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.08-17.28.59:699][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.28.59:753][763]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.10.08-17.29.00:687][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.08-17.29.02:591][ 94]LogSlate: Took 0.010694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.08-17.29.03:996][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-17.29.14:305][491]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.08-17.29.14:321][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.08-17.29.14:321][491]PIE: New page: PIE session: Untitled_1 (8 Oct 2018 19:29:14)
+[2018.10.08-17.29.14:321][491]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.10.08-17.29.14:323][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002168s)
+[2018.10.08-17.29.14:324][491]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.08-17.29.14:324][491]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.10.08-17.29.14:324][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003248s)
+[2018.10.08-17.29.14:349][491]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.08-17.29.14:359][491]LogInit: FAudioDevice initialized.
+[2018.10.08-17.29.14:390][491]LogLoad: Game class is 'GameModeBase'
+[2018.10.08-17.29.14:391][491]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.10.08-18.29.14
+[2018.10.08-17.29.14:391][491]LogWorld: Bringing up level for play took: 0.000894
+[2018.10.08-17.29.14:404][491]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.077
+[2018.10.08-17.29.16:930][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.29.16:962][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.08-17.29.16:983][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.29.17:034][796]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.10.08-17.29.18:267][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.29.19:136][ 38]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.10.08-17.29.19:140][ 38]Candidate modules for hot reload:
+[2018.10.08-17.29.19:140][ 38]  MyProject
+[2018.10.08-17.29.19:140][ 38]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,2957 Win64 Development -TargetType=Editor -Project="../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/MyProject.uproject" -canskiplink "C:/Temp/cMcRae/Where-s-Wally/MyProject/MyProject.uproject" ]
+[2018.10.08-17.29.19:147][ 38]Warning: Starting HotReload took  0.0s.
+[2018.10.08-17.29.58:431][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.10.08-17.29.58:461][819]LogSavePackage: Moving '../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Saved/Untitled_1_Auto11F7660EC40C6A0A5FD129AA082B4D2A1.tmp' to '../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.10.08-17.29.58:470][819]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.062
+[2018.10.08-17.29.58:470][819]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.062
+[2018.10.08-17.30.05:395][841]CompilerResultsLog: New page: Compilation - 8 Oct 2018 19:30:05
+[2018.10.08-17.30.05:395][841]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.10.08-17.30.05:395][841]CompilerResultsLog: Creating makefile for hot reloading MyProjectEditor (ini files are newer than UBTMakefile)
+[2018.10.08-17.30.05:395][841]CompilerResultsLog: Compiling game modules for hot reload
+[2018.10.08-17.30.05:395][841]CompilerResultsLog: Performing full C++ include scan (no include cache file)
+[2018.10.08-17.30.05:395][841]CompilerResultsLog: Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726) and Windows 10.0.15063.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.10.08-17.30.05:395][841]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2018.10.08-17.30.05:395][841]CompilerResultsLog:   Running UnrealHeaderTool "C:\Temp\cMcRae\Where-s-Wally\MyProject\MyProject.uproject" "C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.10.08-17.30.05:395][841]CompilerResultsLog: Reflection code generated for MyProjectEditor in 9.3910547 seconds
+[2018.10.08-17.30.05:395][841]CompilerResultsLog: Building 5 actions with 8 processes...
+[2018.10.08-17.30.05:395][841]CompilerResultsLog:   [1/5] MyProject.init.gen.cpp
+[2018.10.08-17.30.05:395][841]CompilerResultsLog:   [2/5] Wally.gen.cpp
+[2018.10.08-17.30.05:395][841]CompilerResultsLog:   [3/5] Wally.cpp
+[2018.10.08-17.30.05:395][841]CompilerResultsLog:   [4/5] UE4Editor-MyProject-2957.lib
+[2018.10.08-17.30.05:395][841]CompilerResultsLog:      Creating library C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-2957.lib and object C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-2957.exp
+[2018.10.08-17.30.05:395][841]CompilerResultsLog:   [5/5] UE4Editor-MyProject-2957.dll
+[2018.10.08-17.30.05:395][841]CompilerResultsLog:      Creating library C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-2957.suppressed.lib and object C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-2957.suppressed.exp
+[2018.10.08-17.30.05:395][841]CompilerResultsLog: Total build time: 45.22 seconds (Parallel executor: 2.10 seconds)
+[2018.10.08-17.30.05:395][841]LogMainFrame: MainFrame: Module compiling took 46.259 seconds
+[2018.10.08-17.30.05:445][841]LogClass: Could not find existing class Wally in package /Script/MyProject for HotReload, assuming new class
+[2018.10.08-17.30.05:448][841]LogHotReload: Re-instancing Wally after hot-reload.
+[2018.10.08-17.30.05:498][841]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2018.10.08-17.30.05:501][841]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.08-17.30.05:553][841]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2575 classes and 607 folders.
+[2018.10.08-17.30.05:553][841]Display: HotReload took 46.4s.
+[2018.10.08-17.30.46:973][964]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.08-17.30.46:990][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.08-17.30.46:990][964]PIE: New page: PIE session: Untitled_1 (8 Oct 2018 19:30:46)
+[2018.10.08-17.30.46:990][964]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.10.08-17.30.46:992][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002239s)
+[2018.10.08-17.30.46:993][964]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.08-17.30.46:993][964]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2018.10.08-17.30.46:993][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003541s)
+[2018.10.08-17.30.47:019][964]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.08-17.30.47:028][964]LogInit: FAudioDevice initialized.
+[2018.10.08-17.30.47:061][964]LogLoad: Game class is 'GameModeBase'
+[2018.10.08-17.30.47:062][964]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.10.08-18.30.47
+[2018.10.08-17.30.47:063][964]LogWorld: Bringing up level for play took: 0.000923
+[2018.10.08-17.30.47:076][964]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.596
+[2018.10.08-17.31.01:284][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.31.01:319][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.08-17.31.01:340][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.31.01:387][659]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.10.08-17.31.04:263][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.31.06:436][261]LogEditorViewport: Clicking on Actor (LMB): Wally (Wally1)
+[2018.10.08-17.31.08:990][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-17.31.20:307][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-17.31.30:087][ 24]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/MyWallyBP.MyWallyBP
+[2018.10.08-17.31.30:651][ 24]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.08-17.31.31:431][ 24]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.10.08-17.31.49:311][614]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/MyMyProjectGameModeBaseBP.MyMyProjectGameModeBaseBP
+[2018.10.08-17.31.49:624][614]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2018.10.08-17.31.53:005][908]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:296).
+[2018.10.08-17.31.54:492][ 42]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.08-17.32.04:183][962]BlueprintLog: New page: Compile MyMyProjectGameModeBaseBP
+[2018.10.08-17.32.04:769][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/MyMyProjectGameModeBaseBP" FILE="../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Content/Blueprint/MyMyProjectGameModeBaseBP.uasset" SILENT=true
+[2018.10.08-17.32.04:783][  1]LogSavePackage: Moving '../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Saved/MyMyProjectGameModeBaseBPAB23B13F4DCE4DD27410BF886C62E55C.tmp' to '../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Content/Blueprint/MyMyProjectGameModeBaseBP.uasset'
+[2018.10.08-17.32.08:980][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/MyWallyBP" FILE="../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Content/Blueprint/MyWallyBP.uasset" SILENT=true
+[2018.10.08-17.32.08:997][365]LogSavePackage: Moving '../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Saved/MyWallyBPD0DB198A4E983EB32B7292A2392EEA46.tmp' to '../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Content/Blueprint/MyWallyBP.uasset'
+[2018.10.08-17.32.57:640][670]BlueprintLog: New page: Compile MyWallyBP
+[2018.10.08-17.32.58:718][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/MyWallyBP" FILE="../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Content/Blueprint/MyWallyBP.uasset" SILENT=true
+[2018.10.08-17.32.58:741][762]LogSavePackage: Moving '../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Saved/MyWallyBP5F981B9A47E937764055549E52415496.tmp' to '../../../../../../Temp/cMcRae/Where-s-Wally/MyProject/Content/Blueprint/MyWallyBP.uasset'
+[2018.10.08-17.33.07:446][415]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.08-17.33.07:506][416]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2018.10.08-17.33.07:506][416]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.08-17.33.07:507][416]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.08-17.33.07:507][416]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.08-17.33.07:507][416]LogTemp: BranchPath = AMTX222-24/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = AMTX222-24/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.08-17.33.07:507][416]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\cm1crt\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.08-17.33.11:858][899]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.08-17.33.15:800][320]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.08-17.33.15:804][320]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.08-17.33.21:490][985]LogEditorActor: Deleted Actor: Wally
+[2018.10.08-17.33.21:519][985]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2018.10.08-17.33.27:307][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.33.28:617][822]MapCheck: New page: Map Check
+[2018.10.08-17.33.28:644][822]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.08-17.33.28:644][822]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.08-17.33.28:700][822]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.10.08-17.33.28:720][822]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.08-17.33.29:443][822]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.08-17.33.29:443][822]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.08-17.33.29:443][822]TextureStreamingBuild: Display: Compiling optional shaders took 0.748 seconds.
+[2018.10.08-17.33.29:482][822]LogLevel: Display: Export Material TexCoord Scales took 0.039 seconds.
+[2018.10.08-17.33.29:496][822]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2018.10.08-17.33.29:520][822]LightingResults: New page: Lighting Build - 8 Oct 2018 19:33:29
+[2018.10.08-17.33.29:731][822]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.08-17.33.29:949][822]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.08-17.33.30:005][822]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.08-17.33.31:144][822]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.08-17.33.31:144][822]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10152
+[2018.10.08-17.33.34:763][822]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.08-17.33.34:792][822]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.08-17.33.34:792][822]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.08-17.33.34:792][822]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.08-17.33.34:792][822]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.08-17.33.34:792][822]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.08-17.33.34:996][822]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.08-17.33.34:996][822]MapCheck: New page: Untitled_1 - 8 Oct 2018 19:33:34
+[2018.10.08-17.33.35:014][822]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.10.08-17.33.35:135][822]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 138.446ms to complete.
+[2018.10.08-17.33.35:170][822]LogEditorBuildUtils: Build time 0:06
+[2018.10.08-17.33.35:175][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.33.35:195][822]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2018.10.08-17.33.35:204][822]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2018.10.08-17.33.35:257][822]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.08-17.33.35:267][823]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.10.08-17.33.35:274][823]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.08-17.33.35:274][823]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.10.08-17.33.35:279][823]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.08-17.33.35:307][824]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.10.08-17.33.35:316][824]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.08-17.33.35:316][824]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.10.08-17.33.36:187][825]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.08-17.33.39:188][955]Job is a success!
+[2018.10.08-17.33.39:250][956]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2018.10.08-17.33.39:250][956]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.08-17.33.39:250][956]LogVolumetricLightmapImport:      BrickData 90x5x5 = 0.1Mb
+[2018.10.08-17.33.39:250][956]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.08-17.33.39:250][956]LogVolumetricLightmapImport:          0: 5.6% covering 100.0% of volume
+[2018.10.08-17.33.39:250][956]LogVolumetricLightmapImport:          1: 5.6% covering 1.6% of volume
+[2018.10.08-17.33.39:250][956]LogVolumetricLightmapImport:          2: 88.9% covering 0.4% of volume
+[2018.10.08-17.33.39:364][956]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.10.08-17.33.39:364][956]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.10.08-17.33.39:364][956]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.10.08-17.33.39:364][956]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.10.08-17.33.39:364][956]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.10.08-17.33.39:364][956]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2018.10.08-17.33.39:458][956]Lightmass on AMTX222-24: 1.29 sec total, 166 ms importing, 19 ms setup, 390 ms photons, 620 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 4.18 sec total, 199 ms processing.
+[2018.10.08-17.33.39:516][956]LogStaticLightingSystem: Illumination: 9.97 sec (32 ms encoding lightmaps, 44 ms encoding shadowmaps)
+[2018.10.08-17.33.39:516][956]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.10.08-17.33.39:516][956]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.10.08-17.33.39:765][956]DumpUnbuiltLightIteractions
+[2018.10.08-17.33.39:765][956]Lights with unbuilt interactions: 0
+[2018.10.08-17.33.39:765][956]
+[2018.10.08-17.33.39:766][956]Primitives with unbuilt interactions: 0
+[2018.10.08-17.33.39:786][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.33.39:843][957]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.08-17.33.39:843][957]MapCheck: New page: Untitled_1 - 8 Oct 2018 19:33:39
+[2018.10.08-17.33.39:903][957]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.084ms to complete.
+[2018.10.08-17.33.46:003][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-17.33.46:096][699]LogSlate: Window 'Message Log' being destroyed
+[2018.10.08-17.33.46:099][699]LogSlate: Window 'Message Log' being destroyed
+[2018.10.08-17.33.47:706][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-17.33.47:822][906]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.08-17.33.47:851][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.08-17.33.47:851][906]PIE: New page: PIE session: Untitled_1 (8 Oct 2018 19:33:47)
+[2018.10.08-17.33.47:851][906]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.10.08-17.33.47:853][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001870s)
+[2018.10.08-17.33.47:854][906]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.08-17.33.47:854][906]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2018.10.08-17.33.47:854][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002893s)
+[2018.10.08-17.33.47:882][906]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.08-17.33.47:894][906]LogInit: FAudioDevice initialized.
+[2018.10.08-17.33.47:929][906]LogLoad: Game class is 'MyMyProjectGameModeBaseBP_C'
+[2018.10.08-17.33.47:930][906]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.10.08-18.33.47
+[2018.10.08-17.33.47:930][906]LogWorld: Bringing up level for play took: 0.000504
+[2018.10.08-17.33.47:944][906]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.54
+[2018.10.08-17.34.08:537][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.34.08:570][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.08-17.34.08:597][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.34.08:641][377]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.10.08-17.34.10:069][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.34.11:216][684]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.34.12:025][684]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.08-17.34.12:100][686]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2018.10.08-17.34.12:100][686]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.08-17.34.12:100][686]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.08-17.34.12:100][686]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.08-17.34.12:100][686]LogTemp: BranchPath = AMTX222-24/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = AMTX222-24/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.08-17.34.12:124][688]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\cm1crt\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.08-17.36.19:248][328]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.08-17.36.19:268][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.08-17.36.19:268][328]PIE: New page: PIE session: Untitled_1 (8 Oct 2018 19:36:19)
+[2018.10.08-17.36.19:268][328]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.10.08-17.36.19:271][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002183s)
+[2018.10.08-17.36.19:272][328]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.08-17.36.19:272][328]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2018.10.08-17.36.19:272][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003494s)
+[2018.10.08-17.36.19:326][328]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.08-17.36.19:335][328]LogInit: FAudioDevice initialized.
+[2018.10.08-17.36.19:362][328]LogLoad: Game class is 'MyMyProjectGameModeBaseBP_C'
+[2018.10.08-17.36.19:364][328]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.10.08-18.36.19
+[2018.10.08-17.36.19:364][328]LogWorld: Bringing up level for play took: 0.000533
+[2018.10.08-17.36.19:378][328]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.891
+[2018.10.08-17.36.22:680][681]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.08-17.36.22:684][681]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.08-17.36.31:464][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.36.31:496][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.08-17.36.31:522][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.36.31:570][735]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.10.08-17.36.33:671][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.36.34:516][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.36.35:319][ 87]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.08-17.36.35:384][ 88]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2018.10.08-17.36.35:384][ 88]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.08-17.36.35:384][ 88]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.08-17.36.35:384][ 88]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.08-17.36.35:384][ 88]LogTemp: BranchPath = AMTX222-24/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = AMTX222-24/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.08-17.36.35:384][ 88]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\cm1crt\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.08-17.36.44:703][198]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.08-17.36.44:706][198]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.08-17.36.45:619][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-17.36.45:719][317]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.08-17.36.45:738][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.08-17.36.45:738][317]PIE: New page: PIE session: Untitled_1 (8 Oct 2018 19:36:45)
+[2018.10.08-17.36.45:738][317]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.10.08-17.36.45:741][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002352s)
+[2018.10.08-17.36.45:742][317]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.08-17.36.45:742][317]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2018.10.08-17.36.45:742][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003803s)
+[2018.10.08-17.36.45:771][317]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.08-17.36.45:778][317]LogInit: FAudioDevice initialized.
+[2018.10.08-17.36.45:812][317]LogLoad: Game class is 'MyMyProjectGameModeBaseBP_C'
+[2018.10.08-17.36.45:814][317]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.10.08-18.36.45
+[2018.10.08-17.36.45:814][317]LogWorld: Bringing up level for play took: 0.000589
+[2018.10.08-17.36.45:827][317]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.66
+[2018.10.08-17.37.14:352][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.37.14:390][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.08-17.37.14:417][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.37.14:467][735]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.10.08-17.37.16:001][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.37.17:247][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.37.18:043][ 67]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.08-17.37.18:104][ 67]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2018.10.08-17.37.18:104][ 67]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.08-17.37.18:104][ 67]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.08-17.37.18:104][ 67]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.08-17.37.18:104][ 67]LogTemp: BranchPath = AMTX222-24/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = AMTX222-24/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.08-17.37.18:104][ 67]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\cm1crt\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.08-17.37.52:863][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.08-17.37.52:963][234]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.08-17.37.52:984][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.08-17.37.52:984][234]PIE: New page: PIE session: Untitled_1 (8 Oct 2018 19:37:52)
+[2018.10.08-17.37.52:984][234]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.10.08-17.37.52:987][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003189s)
+[2018.10.08-17.37.52:988][234]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.08-17.37.52:988][234]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2018.10.08-17.37.52:988][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004335s)
+[2018.10.08-17.37.53:017][234]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.08-17.37.53:026][234]LogInit: FAudioDevice initialized.
+[2018.10.08-17.37.53:056][234]LogLoad: Game class is 'MyMyProjectGameModeBaseBP_C'
+[2018.10.08-17.37.53:057][234]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.10.08-18.37.53
+[2018.10.08-17.37.53:057][234]LogWorld: Bringing up level for play took: 0.000533
+[2018.10.08-17.37.53:070][234]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.583
+[2018.10.08-17.37.56:017][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.37.56:048][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.08-17.37.56:073][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.08-17.37.56:116][589]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.10.08-17.37.58:066][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.08-17.38.09:012][ 50]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.08-17.38.09:015][ 50]LogSlate: Window 'Project Settings' being destroyed

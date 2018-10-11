@@ -57,7 +57,11 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AWally); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AWally)
 
 
-#define MyProject_Source_MyProject_Wally_h_12_PRIVATE_PROPERTY_OFFSET
+#define MyProject_Source_MyProject_Wally_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__Mesh1P() { return STRUCT_OFFSET(AWally, Mesh1P); } \
+	FORCEINLINE static uint32 __PPO__FirstPersonCameraComponent() { return STRUCT_OFFSET(AWally, FirstPersonCameraComponent); }
+
+
 #define MyProject_Source_MyProject_Wally_h_9_PROLOG
 #define MyProject_Source_MyProject_Wally_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

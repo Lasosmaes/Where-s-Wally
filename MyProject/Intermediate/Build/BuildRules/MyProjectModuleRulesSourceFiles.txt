@@ -1,3 +1,3 @@
-C:\Temp\cMcRae\Where-s-Wally\MyProject\Source\MyProject\MyProject.Build.cs
-C:\Temp\cMcRae\Where-s-Wally\MyProject\Source\MyProject.Target.cs
-C:\Temp\cMcRae\Where-s-Wally\MyProject\Source\MyProjectEditor.Target.cs
+C:\Temp\CMcRae\Where-s-Wally\MyProject\Source\MyProject\MyProject.Build.cs
+C:\Temp\CMcRae\Where-s-Wally\MyProject\Source\MyProject.Target.cs
+C:\Temp\CMcRae\Where-s-Wally\MyProject\Source\MyProjectEditor.Target.cs

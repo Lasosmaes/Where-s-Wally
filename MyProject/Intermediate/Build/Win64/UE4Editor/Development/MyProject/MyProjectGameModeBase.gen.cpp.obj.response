@@ -400,21 +400,21 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject
-/I C:\Temp\cMcRae\Where-s-Wally\MyProject\Source
-/I C:\Temp\cMcRae\Where-s-Wally\MyProject\Source\MyProject
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.15063.0\winrt"
-/FI"C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectGameModeBase.gen.cpp"
-/FI"C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h"
-/Fo"C:\Temp\cMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectGameModeBase.gen.cpp.obj"
+/I "C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject"
+/I "C:\Uni\Year 3\Where-s-Wally\MyProject\Source"
+/I "C:\Uni\Year 3\Where-s-Wally\MyProject\Source\MyProject"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectGameModeBase.gen.cpp"
+/FI"C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h"
+/Fo"C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4

@@ -78,6 +78,7 @@ void AWally::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 	PlayerInputComponent->BindAxis("MoveForward", this, &AWally::MoveForward);
 	PlayerInputComponent->BindAxis("MoveRight", this, &AWally::MoveRight);
 
-	
+	PlayerInputComponent->BindAxis("Turn", this, &APawn::AddControllerYawInput);
+	PlayerInputComponent->BindAxis("LookUp", this, &APawn::AddControllerPitchInput);
 }
 

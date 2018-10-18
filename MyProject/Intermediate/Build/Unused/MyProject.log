@@ -4,18 +4,22 @@
   Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726) and Windows 10.0.15063.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Parsing headers for MyProjectEditor
     Running UnrealHeaderTool "C:\Temp\CMcRae\Where-s-Wally\MyProject\MyProject.uproject" "C:\Temp\CMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for MyProjectEditor in 8.6590063 seconds
+  Reflection code generated for MyProjectEditor in 8.9802281 seconds
+  Deleting old hot reload file: "C:\Temp\CMcRae\Where-s-Wally\MyProject\Binaries\Win64\UE4Editor-MyProject-3821.dll".
+  Deleting old hot reload file: "C:\Temp\CMcRae\Where-s-Wally\MyProject\Binaries\Win64\UE4Editor-MyProject-3821.pdb".
+  Deleting old hot reload file: "C:\Temp\CMcRae\Where-s-Wally\MyProject\Binaries\Win64\UE4Editor-MyProject-9862.dll".
+  Deleting old hot reload file: "C:\Temp\CMcRae\Where-s-Wally\MyProject\Binaries\Win64\UE4Editor-MyProject-9862.pdb".
   Building 9 actions with 8 processes...
     SharedPCH.Engine.cpp
     MyProjectGameModeBase.cpp
     MyProject.init.gen.cpp
-    MyProjectGameModeBase.gen.cpp
-    Wally.gen.cpp
-    Wally.cpp
     MyProject.cpp
+    Wally.cpp
+    Wally.gen.cpp
+    MyProjectGameModeBase.gen.cpp
     UE4Editor-MyProject.lib
        Creating library C:\Temp\CMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.lib and object C:\Temp\CMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.exp
     UE4Editor-MyProject.dll
        Creating library C:\Temp\CMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.suppressed.lib and object C:\Temp\CMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.suppressed.exp
   Deploying MyProjectEditor Win64 Development...
-  Total build time: 48.63 seconds (Parallel executor: 34.90 seconds)
+  Total build time: 51.24 seconds (Parallel executor: 29.91 seconds)

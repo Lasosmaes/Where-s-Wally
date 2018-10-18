@@ -1115,3 +1115,502 @@ LogInit: Object subsystem initialized
 [2018.10.18-15.44.02:352][213]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/TestMap_backupF76CF2504023B74AE1D7309472FCFDC8.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup.umap'
 [2018.10.18-15.44.02:390][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_backup_BuiltData" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup_BuiltData.uasset" SILENT=true
 [2018.10.18-15.44.02:423][213]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/TestMap_backup_BuiltData77AC851E4B987CACFF2DC497968A6C9E.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup_BuiltData.uasset'
+[2018.10.18-15.48.15:684][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemyBT" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBT.uasset" SILENT=true
+[2018.10.18-15.48.15:721][ 74]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/AIEnemyBT20DF8DA7486D240EDB15098E5F38F2F8.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBT.uasset'
+[2018.10.18-15.49.34:703][429]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2018.10.18-15.49.34:798][430]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.10.18-15.49.34:798][430]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.10.18-15.49.34:799][430]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.18-15.49.34:799][430]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.18-15.49.34:805][430]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2018.10.18-15.49.34:874][431]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2018.10.18-15.49.34:908][432]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2018.10.18-15.49.37:131][644]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.10.18-15.49.37:207][653]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.10.18-15.49.37:477][684]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.10.18-15.49.38:636][814]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.10.18-15.49.38:696][821]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.10.18-15.49.39:086][865]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.10.18-15.49.39:103][867]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.10.18-15.49.40:563][ 32]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.10.18-15.49.40:615][ 38]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.10.18-15.49.40:890][ 70]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.18-15.49.41:407][129]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.18-15.49.42:461][245]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.18-15.49.42:581][259]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-15.49.43:070][310]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.18-15.52.24:645][221]BlueprintLog: New page: Compile AIEnemyController
+[2018.10.18-15.52.35:741][516]BlueprintLog: New page: Compile AIEnemyController
+[2018.10.18-15.53.45:279][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemyController" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyController.uasset" SILENT=true
+[2018.10.18-15.53.45:399][821]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/AIEnemyController12A1E3604106336686EE98B881F50346.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyController.uasset'
+[2018.10.18-15.53.56:684][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemyBT" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBT.uasset" SILENT=true
+[2018.10.18-15.53.56:822][152]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/AIEnemyBTA4D6F8664788349B8EF5F7915AED6F81.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBT.uasset'
+[2018.10.18-15.53.59:085][409]MapCheck: New page: Map Check
+[2018.10.18-15.53.59:096][409]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.18-15.53.59:096][409]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.18-15.53.59:174][409]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.10.18-15.53.59:180][409]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-15.53.59:180][409]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.18-15.53.59:188][409]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.18-15.53.59:195][409]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.18-15.53.59:205][409]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.10.18-15.54.00:049][409]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.18-15.54.00:050][409]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-15.54.00:050][409]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-15.54.00:050][409]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-15.54.00:050][409]TextureStreamingBuild: Display: Compiling optional shaders took 0.879 seconds.
+[2018.10.18-15.54.00:055][409]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2018.10.18-15.54.00:071][409]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2018.10.18-15.54.00:105][409]LightingResults: New page: Lighting Build - 18 Oct 2018 17:54:00
+[2018.10.18-15.54.00:113][409]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.18-15.54.00:115][409]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.18-15.54.00:115][409]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.18-15.54.00:116][409]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.18-15.54.00:116][409]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7916
+[2018.10.18-15.54.04:782][409]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.18-15.54.04:782][409]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.18-15.54.04:783][409]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.18-15.54.04:783][409]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.18-15.54.04:783][409]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.18-15.54.04:783][409]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.18-15.54.04:991][409]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.18-15.54.04:991][409]MapCheck: New page: TestMap_backup - 18 Oct 2018 17:54:04
+[2018.10.18-15.54.05:268][409]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 277.035ms to complete.
+[2018.10.18-15.54.05:294][409]LogEditorBuildUtils: Build time 0:06
+[2018.10.18-15.54.08:048][531]Job is a success!
+[2018.10.18-15.54.08:097][532]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2018.10.18-15.54.08:097][532]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.18-15.54.08:097][532]LogVolumetricLightmapImport:      BrickData 390x5x5 = 0.3Mb
+[2018.10.18-15.54.08:097][532]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.18-15.54.08:097][532]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2018.10.18-15.54.08:097][532]LogVolumetricLightmapImport:          1: 5.1% covering 6.3% of volume
+[2018.10.18-15.54.08:097][532]LogVolumetricLightmapImport:          2: 93.6% covering 1.8% of volume
+[2018.10.18-15.54.08:164][532]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.10.18-15.54.08:164][532]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.10.18-15.54.08:164][532]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.10.18-15.54.08:164][532]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.10.18-15.54.08:164][532]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.10.18-15.54.08:164][532]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.10.18-15.54.08:164][532]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2018.10.18-15.54.08:164][532]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X128)
+[2018.10.18-15.54.08:164][532]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 128X128)
+[2018.10.18-15.54.08:251][532]Lightmass on AMTX222-03: 1.33 sec total, 168 ms importing, 23 ms setup, 421 ms photons, 666 ms processing, 0 ms extra exporting [38/38 mappings]. Threads: 4.49 sec total, 826 ms processing.
+[2018.10.18-15.54.08:256][532]LogStaticLightingSystem: Illumination: 8.13 sec (32 ms encoding lightmaps, 17 ms encoding shadowmaps)
+[2018.10.18-15.54.08:256][532]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2018.10.18-15.54.08:256][532]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.10.18-15.54.08:788][532]DumpUnbuiltLightIteractions
+[2018.10.18-15.54.08:788][532]Lights with unbuilt interactions: 0
+[2018.10.18-15.54.08:788][532]
+[2018.10.18-15.54.08:788][532]Primitives with unbuilt interactions: 0
+[2018.10.18-15.54.08:893][533]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.18-15.54.08:894][533]MapCheck: New page: TestMap_backup - 18 Oct 2018 17:54:08
+[2018.10.18-15.54.08:971][533]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.455ms to complete.
+[2018.10.18-15.54.09:886][627]Candidate modules for hot reload:
+[2018.10.18-15.54.09:886][627]  MyProject
+[2018.10.18-15.54.09:886][627]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,9309 Win64 Development -TargetType=Editor -Project="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/MyProject.uproject" -canskiplink "C:/Temp/CMcRae/Where-s-Wally/MyProject/MyProject.uproject" ]
+[2018.10.18-15.54.09:898][627]Warning: Starting HotReload took  0.0s.
+[2018.10.18-15.54.12:344][884]CompilerResultsLog: New page: Compilation - 18 Oct 2018 17:54:12
+[2018.10.18-15.54.12:344][884]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.10.18-15.54.12:344][884]CompilerResultsLog: Compiling game modules for hot reload
+[2018.10.18-15.54.12:344][884]CompilerResultsLog: Target is up to date
+[2018.10.18-15.54.12:344][884]CompilerResultsLog: Total build time: 2.17 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.10.18-15.54.12:344][884]LogMainFrame: MainFrame: Module compiling took 2.464 seconds
+[2018.10.18-15.54.12:638][884]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2575 classes and 607 folders.
+[2018.10.18-15.54.12:638][884]Display: HotReload took  2.8s.
+[2018.10.18-15.54.14:609][120]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.18-15.54.14:645][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-15.54.14:645][120]PIE: New page: PIE session: TestMap_backup (18 Oct 2018 17:54:14)
+[2018.10.18-15.54.14:646][120]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap_backup
+[2018.10.18-15.54.14:651][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005685s)
+[2018.10.18-15.54.14:652][120]LogAIModule: Creating AISystem for world TestMap_backup
+[2018.10.18-15.54.14:652][120]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2018.10.18-15.54.14:652][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap_backup.TestMap_backup to /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup (0.006661s)
+[2018.10.18-15.54.14:729][120]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-15.54.14:737][120]LogInit: FAudioDevice initialized.
+[2018.10.18-15.54.14:767][120]LogLoad: Game class is 'MyMyProjectGameModeBaseBP_C'
+[2018.10.18-15.54.14:769][120]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup up for play (max tick rate 0) at 2018.10.18-16.54.14
+[2018.10.18-15.54.14:770][120]LogWorld: Bringing up level for play took: 0.001719
+[2018.10.18-15.54.14:790][120]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap_backup -0.475
+[2018.10.18-15.54.43:690][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-15.54.43:727][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.18-15.54.43:796][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-15.54.43:847][580]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2018.10.18-15.54.44:867][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-15.54.44:942][707]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.18-15.54.44:975][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-15.54.44:975][707]PIE: New page: PIE session: TestMap_backup (18 Oct 2018 17:54:44)
+[2018.10.18-15.54.44:975][707]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap_backup
+[2018.10.18-15.54.44:981][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006481s)
+[2018.10.18-15.54.44:982][707]LogAIModule: Creating AISystem for world TestMap_backup
+[2018.10.18-15.54.44:982][707]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2018.10.18-15.54.44:982][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap_backup.TestMap_backup to /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup (0.007431s)
+[2018.10.18-15.54.45:020][707]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-15.54.45:028][707]LogInit: FAudioDevice initialized.
+[2018.10.18-15.54.45:065][707]LogLoad: Game class is 'MyMyProjectGameModeBaseBP_C'
+[2018.10.18-15.54.45:067][707]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup up for play (max tick rate 0) at 2018.10.18-16.54.45
+[2018.10.18-15.54.45:067][707]LogWorld: Bringing up level for play took: 0.002258
+[2018.10.18-15.54.45:082][707]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap_backup -0.182
+[2018.10.18-15.55.04:047][840]LogSlate: Window 'AIEnemyBT' being destroyed
+[2018.10.18-15.55.37:365][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-15.55.37:402][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.18-15.55.37:439][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-15.55.37:473][644]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2018.10.18-15.55.48:174][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-15.56.21:358][683]LogSlate: Window 'AIEnemyBT' being destroyed
+[2018.10.18-15.56.52:173][525]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.18-15.57.06:623][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemyBlackBoard" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBlackBoard.uasset" SILENT=true
+[2018.10.18-15.57.06:707][225]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/AIEnemyBlackBoard41D89BDD437841D99B1E959E591C107F.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBlackBoard.uasset'
+[2018.10.18-15.57.14:022][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemyBT" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBT.uasset" SILENT=true
+[2018.10.18-15.57.14:049][ 92]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/AIEnemyBT5486988B46106E3EF010D38F1FB0F83F.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBT.uasset'
+[2018.10.18-15.57.15:466][261]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.18-15.57.15:510][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-15.57.15:510][261]PIE: New page: PIE session: TestMap_backup (18 Oct 2018 17:57:15)
+[2018.10.18-15.57.15:510][261]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap_backup
+[2018.10.18-15.57.15:516][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005818s)
+[2018.10.18-15.57.15:517][261]LogAIModule: Creating AISystem for world TestMap_backup
+[2018.10.18-15.57.15:517][261]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2018.10.18-15.57.15:517][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap_backup.TestMap_backup to /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup (0.006941s)
+[2018.10.18-15.57.15:558][261]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-15.57.15:566][261]LogInit: FAudioDevice initialized.
+[2018.10.18-15.57.15:596][261]LogLoad: Game class is 'MyMyProjectGameModeBaseBP_C'
+[2018.10.18-15.57.15:598][261]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup up for play (max tick rate 0) at 2018.10.18-16.57.15
+[2018.10.18-15.57.15:598][261]LogWorld: Bringing up level for play took: 0.001842
+[2018.10.18-15.57.15:612][261]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap_backup 0.353
+[2018.10.18-15.58.33:363][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-15.58.33:404][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.18-15.58.33:496][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-15.58.33:538][585]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.10.18-15.58.37:361][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-15.58.37:481][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_backup" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.18-15.58.37:669][ 46]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/TestMap_backup60CD2F8442B64B22CF84BEB3605E43B6.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup.umap'
+[2018.10.18-15.58.37:709][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_backup_BuiltData" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup_BuiltData.uasset" SILENT=true
+[2018.10.18-15.58.37:779][ 46]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/TestMap_backup_BuiltDataBA9AAF8542E7EC4E8D6696A3F6BE0D25.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup_BuiltData.uasset'
+[2018.10.18-16.00.06:478][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-16.00.06:479][547]PIE: New page: SIE session: TestMap_backup (18 Oct 2018 18:00:06)
+[2018.10.18-16.00.06:479][547]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap_backup
+[2018.10.18-16.00.06:485][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005985s)
+[2018.10.18-16.00.06:486][547]LogAIModule: Creating AISystem for world TestMap_backup
+[2018.10.18-16.00.06:486][547]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2018.10.18-16.00.06:486][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap_backup.TestMap_backup to /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup (0.007187s)
+[2018.10.18-16.00.06:530][547]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-16.00.06:538][547]LogInit: FAudioDevice initialized.
+[2018.10.18-16.00.06:570][547]LogLoad: Game class is 'MyMyProjectGameModeBaseBP_C'
+[2018.10.18-16.00.06:571][547]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup up for play (max tick rate 0) at 2018.10.18-17.00.06
+[2018.10.18-16.00.06:572][547]LogWorld: Bringing up level for play took: 0.002086
+[2018.10.18-16.00.06:586][547]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap_backup -0.669
+[2018.10.18-16.00.29:152][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.00.29:187][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.18-16.00.29:221][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.00.29:251][236]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2018.10.18-16.00.38:383][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.00.42:911][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.00.48:159][314]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (EnemyTarget)
+[2018.10.18-16.00.49:496][469]Cmd: EDIT COPY
+[2018.10.18-16.00.50:107][510]Cmd: EDIT PASTE
+[2018.10.18-16.00.55:523][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.18-16.00.56:323][240]LogEditorViewport: Clicking on Actor (LMB): AIEnemyCharacter_C (AIEnemyCharacter2)
+[2018.10.18-16.00.57:502][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.01.02:200][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.01.02:321][851]MapCheck: New page: Map Check
+[2018.10.18-16.01.02:336][851]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.18-16.01.02:336][851]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.18-16.01.02:410][851]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.10.18-16.01.02:415][851]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.18-16.01.02:422][851]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.18-16.01.02:428][851]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.01.02:428][851]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-16.01.02:428][851]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.18-16.01.02:436][851]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.10.18-16.01.03:417][851]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.18-16.01.03:417][851]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.01.03:417][851]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-16.01.03:417][851]TextureStreamingBuild: Display: Compiling optional shaders took 1.010 seconds.
+[2018.10.18-16.01.03:423][851]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2018.10.18-16.01.03:436][851]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2018.10.18-16.01.03:468][851]LightingResults: New page: Lighting Build - 18 Oct 2018 18:01:03
+[2018.10.18-16.01.03:487][851]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.18-16.01.03:489][851]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.18-16.01.03:489][851]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.18-16.01.03:490][851]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.18-16.01.03:490][851]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7916
+[2018.10.18-16.01.08:008][851]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.18-16.01.08:008][851]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.18-16.01.08:009][851]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.18-16.01.08:009][851]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.18-16.01.08:009][851]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.18-16.01.08:009][851]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.18-16.01.08:214][851]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.18-16.01.08:215][851]MapCheck: New page: TestMap_backup - 18 Oct 2018 18:01:08
+[2018.10.18-16.01.08:465][851]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 250.183ms to complete.
+[2018.10.18-16.01.08:490][851]LogEditorBuildUtils: Build time 0:06
+[2018.10.18-16.01.11:129][860]Job is a success!
+[2018.10.18-16.01.11:614][861]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.043s
+[2018.10.18-16.01.11:614][861]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.18-16.01.11:614][861]LogVolumetricLightmapImport:      BrickData 390x5x5 = 0.3Mb
+[2018.10.18-16.01.11:614][861]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.18-16.01.11:614][861]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2018.10.18-16.01.11:614][861]LogVolumetricLightmapImport:          1: 5.1% covering 6.3% of volume
+[2018.10.18-16.01.11:615][861]LogVolumetricLightmapImport:          2: 93.6% covering 1.8% of volume
+[2018.10.18-16.01.11:716][861]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.10.18-16.01.11:716][861]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.10.18-16.01.11:716][861]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.10.18-16.01.11:716][861]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.10.18-16.01.11:716][861]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.10.18-16.01.11:716][861]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.10.18-16.01.11:717][861]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2018.10.18-16.01.11:717][861]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 128X128)
+[2018.10.18-16.01.11:717][861]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 128X128)
+[2018.10.18-16.01.11:725][861]Lightmass on AMTX222-03: 1.88 sec total, 325 ms importing, 23 ms setup, 452 ms photons, 1.04 sec processing, 0 ms extra exporting [38/38 mappings]. Threads: 7.17 sec total, 789 ms processing.
+[2018.10.18-16.01.11:766][861]LogStaticLightingSystem: Illumination: 7.94 sec (39 ms encoding lightmaps, 13 ms encoding shadowmaps)
+[2018.10.18-16.01.11:767][861]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2018.10.18-16.01.11:767][861]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.10.18-16.01.12:014][861]DumpUnbuiltLightIteractions
+[2018.10.18-16.01.12:014][861]Lights with unbuilt interactions: 0
+[2018.10.18-16.01.12:014][861]
+[2018.10.18-16.01.12:014][861]Primitives with unbuilt interactions: 0
+[2018.10.18-16.01.12:131][862]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.18-16.01.12:131][862]MapCheck: New page: TestMap_backup - 18 Oct 2018 18:01:12
+[2018.10.18-16.01.12:218][862]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.597ms to complete.
+[2018.10.18-16.01.13:625][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.01.13:895][867]LogTemp: Repeating last play command: Simulate
+[2018.10.18-16.01.13:929][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-16.01.13:929][867]PIE: New page: SIE session: TestMap_backup (18 Oct 2018 18:01:13)
+[2018.10.18-16.01.13:929][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap_backup
+[2018.10.18-16.01.13:935][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006102s)
+[2018.10.18-16.01.13:936][867]LogAIModule: Creating AISystem for world TestMap_backup
+[2018.10.18-16.01.13:937][867]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2018.10.18-16.01.13:937][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap_backup.TestMap_backup to /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup (0.007253s)
+[2018.10.18-16.01.13:980][867]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-16.01.13:988][867]LogInit: FAudioDevice initialized.
+[2018.10.18-16.01.14:022][867]LogLoad: Game class is 'MyMyProjectGameModeBaseBP_C'
+[2018.10.18-16.01.14:025][867]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup up for play (max tick rate 0) at 2018.10.18-17.01.14
+[2018.10.18-16.01.14:026][867]LogWorld: Bringing up level for play took: 0.002878
+[2018.10.18-16.01.14:040][867]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap_backup 0.785
+[2018.10.18-16.01.15:002][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.18-16.01.16:165][  6]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.18-16.01.16:887][ 75]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.18-16.01.17:039][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.01.17:973][178]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.18-16.01.22:600][636]LogEditorViewport: Clicking on Actor (LMB): AIEnemyCharacter_C (AIEnemyCharacter2)
+[2018.10.18-16.01.24:441][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.01.55:087][453]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.02.06:376][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.02.24:583][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.02.24:616][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.18-16.02.24:650][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.02.24:695][969]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2018.10.18-16.02.26:903][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.02.38:671][606]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.18-16.02.38:671][606]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2018.10.18-16.02.38:995][606]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/BTTask_BlueprintBase_New.
+[2018.10.18-16.03.02:446][  9]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.18-16.03.33:132][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTTask_BlueprintBase_New" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/BTTask_BlueprintBase_New.uasset" SILENT=true
+[2018.10.18-16.03.33:141][613]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/BTTask_BlueprintBase_New337BB4294B815EF02C24858EFDC8AA64.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/BTTask_BlueprintBase_New.uasset'
+[2018.10.18-16.03.33:214][621]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BTTask_BlueprintBase_New.
+[2018.10.18-16.03.59:736][768]LogMetaData: Removing '/Game/AI/BTT_Set_BB_Actor.SKEL_BTT_Set_BB_Actor_C' ref from Metadata '/Game/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.10.18-16.03.59:736][768]LogMetaData: Removing '/Game/AI/BTT_Set_BB_Actor.BTT_Set_BB_Actor_C' ref from Metadata '/Game/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.10.18-16.03.59:755][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_Set_BB_Actor" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/BTT_Set_BB_Actor.uasset" SILENT=true
+[2018.10.18-16.03.59:766][768]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/BTT_Set_BB_ActorACFAB228469A5C1EA21865B8A4B3AA9D.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/BTT_Set_BB_Actor.uasset'
+[2018.10.18-16.04.00:052][770]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BTT_Set_BB_Actor.
+[2018.10.18-16.04.03:221][149]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/BTT_Set_BB_Actor.BTT_Set_BB_Actor
+[2018.10.18-16.04.05:705][409]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/BTT_Set_BB_Actor.BTT_Set_BB_Actor
+[2018.10.18-16.05.57:823][145]LogClass: Warning: Type mismatch in Actor of SKEL_BTT_Set_BB_Actor_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2018.10.18-16.06.26:923][615]BlueprintLog: New page: Compile BTT_Set_BB_Actor
+[2018.10.18-16.06.27:762][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_Set_BB_Actor" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/BTT_Set_BB_Actor.uasset" SILENT=true
+[2018.10.18-16.06.27:802][708]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/BTT_Set_BB_ActorC7C91F7C41D81FEB8B06D48061022D75.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/BTT_Set_BB_Actor.uasset'
+[2018.10.18-16.08.06:039][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemyBT" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBT.uasset" SILENT=true
+[2018.10.18-16.08.06:068][458]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/AIEnemyBTD6BC3EF6402BE6FAB108028B0749EA8C.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBT.uasset'
+[2018.10.18-16.08.07:591][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_backup" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.18-16.08.07:702][629]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/TestMap_backup3C24472B4A4C83D1DFBCC2A4F29BD0EB.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup.umap'
+[2018.10.18-16.08.07:741][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_backup_BuiltData" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup_BuiltData.uasset" SILENT=true
+[2018.10.18-16.08.07:774][629]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/TestMap_backup_BuiltDataE31A50124B9EC6B1766F0C883C21ACC8.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup_BuiltData.uasset'
+[2018.10.18-16.08.08:341][695]MapCheck: New page: Map Check
+[2018.10.18-16.08.08:350][695]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.18-16.08.08:350][695]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.18-16.08.08:428][695]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.10.18-16.08.08:433][695]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.18-16.08.08:440][695]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.08.08:440][695]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-16.08.08:440][695]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.18-16.08.08:446][695]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.18-16.08.08:454][695]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.10.18-16.08.09:597][695]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.18-16.08.09:597][695]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.08.09:597][695]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-16.08.09:597][695]TextureStreamingBuild: Display: Compiling optional shaders took 1.172 seconds.
+[2018.10.18-16.08.09:605][695]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2018.10.18-16.08.09:619][695]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2018.10.18-16.08.09:654][695]LightingResults: New page: Lighting Build - 18 Oct 2018 18:08:09
+[2018.10.18-16.08.09:661][695]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.18-16.08.09:663][695]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.18-16.08.09:663][695]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.18-16.08.09:664][695]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.18-16.08.09:664][695]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7916
+[2018.10.18-16.08.14:184][695]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.18-16.08.14:185][695]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.18-16.08.14:185][695]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.18-16.08.14:185][695]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.18-16.08.14:185][695]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.18-16.08.14:185][695]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.18-16.08.14:391][695]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.18-16.08.14:391][695]MapCheck: New page: TestMap_backup - 18 Oct 2018 18:08:14
+[2018.10.18-16.08.14:468][695]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.474ms to complete.
+[2018.10.18-16.08.14:491][695]LogEditorBuildUtils: Build time 0:06
+[2018.10.18-16.08.16:968][817]Job is a success!
+[2018.10.18-16.08.17:013][818]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2018.10.18-16.08.17:013][818]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.18-16.08.17:013][818]LogVolumetricLightmapImport:      BrickData 390x5x5 = 0.3Mb
+[2018.10.18-16.08.17:013][818]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.18-16.08.17:013][818]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2018.10.18-16.08.17:013][818]LogVolumetricLightmapImport:          1: 5.1% covering 6.3% of volume
+[2018.10.18-16.08.17:013][818]LogVolumetricLightmapImport:          2: 93.6% covering 1.8% of volume
+[2018.10.18-16.08.17:073][818]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.10.18-16.08.17:073][818]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.10.18-16.08.17:073][818]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.10.18-16.08.17:073][818]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.10.18-16.08.17:073][818]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.10.18-16.08.17:073][818]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.10.18-16.08.17:073][818]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 32X32)
+[2018.10.18-16.08.17:073][818]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 128X128)
+[2018.10.18-16.08.17:073][818]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 128X128)
+[2018.10.18-16.08.17:118][818]Lightmass on AMTX222-03: 1.32 sec total, 126 ms importing, 18 ms setup, 428 ms photons, 720 ms processing, 0 ms extra exporting [38/38 mappings]. Threads: 4.87 sec total, 845 ms processing.
+[2018.10.18-16.08.17:124][818]LogStaticLightingSystem: Illumination: 7.45 sec (27 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2018.10.18-16.08.17:124][818]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2018.10.18-16.08.17:124][818]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.10.18-16.08.17:190][818]DumpUnbuiltLightIteractions
+[2018.10.18-16.08.17:190][818]Lights with unbuilt interactions: 0
+[2018.10.18-16.08.17:190][818]
+[2018.10.18-16.08.17:190][818]Primitives with unbuilt interactions: 0
+[2018.10.18-16.08.17:331][819]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.18-16.08.17:331][819]MapCheck: New page: TestMap_backup - 18 Oct 2018 18:08:17
+[2018.10.18-16.08.17:417][819]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.229ms to complete.
+[2018.10.18-16.08.22:664][442]LogTemp: Repeating last play command: Simulate
+[2018.10.18-16.08.22:700][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-16.08.22:700][442]PIE: New page: SIE session: TestMap_backup (18 Oct 2018 18:08:22)
+[2018.10.18-16.08.22:700][442]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap_backup
+[2018.10.18-16.08.22:705][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005297s)
+[2018.10.18-16.08.22:706][442]LogAIModule: Creating AISystem for world TestMap_backup
+[2018.10.18-16.08.22:706][442]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2018.10.18-16.08.22:706][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap_backup.TestMap_backup to /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup (0.006109s)
+[2018.10.18-16.08.22:752][442]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-16.08.22:762][442]LogInit: FAudioDevice initialized.
+[2018.10.18-16.08.22:793][442]LogLoad: Game class is 'MyMyProjectGameModeBaseBP_C'
+[2018.10.18-16.08.22:795][442]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup up for play (max tick rate 0) at 2018.10.18-17.08.22
+[2018.10.18-16.08.22:796][442]LogWorld: Bringing up level for play took: 0.002696
+[2018.10.18-16.08.22:810][442]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap_backup -0.436
+[2018.10.18-16.08.46:278][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.08.46:317][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.18-16.08.46:377][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.08.46:402][236]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2018.10.18-16.08.56:217][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.08.56:325][425]LogTemp: Repeating last play command: Simulate
+[2018.10.18-16.08.56:362][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-16.08.56:362][425]PIE: New page: SIE session: TestMap_backup (18 Oct 2018 18:08:56)
+[2018.10.18-16.08.56:362][425]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap_backup
+[2018.10.18-16.08.56:368][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005969s)
+[2018.10.18-16.08.56:369][425]LogAIModule: Creating AISystem for world TestMap_backup
+[2018.10.18-16.08.56:369][425]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2018.10.18-16.08.56:369][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap_backup.TestMap_backup to /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup (0.006952s)
+[2018.10.18-16.08.56:412][425]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-16.08.56:422][425]LogInit: FAudioDevice initialized.
+[2018.10.18-16.08.56:451][425]LogLoad: Game class is 'MyMyProjectGameModeBaseBP_C'
+[2018.10.18-16.08.56:453][425]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap_backup.TestMap_backup up for play (max tick rate 0) at 2018.10.18-17.08.56
+[2018.10.18-16.08.56:454][425]LogWorld: Bringing up level for play took: 0.002221
+[2018.10.18-16.08.56:467][425]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap_backup -0.777
+[2018.10.18-16.08.57:885][579]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.10.18-16.09.04:952][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.09.14:424][532]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.09.20:020][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.09.38:637][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.09.38:675][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.18-16.09.38:713][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.09.38:736][403]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2018.10.18-16.10.28:303][292]BlueprintLog: New page: Compile BTT_Set_BB_Actor
+[2018.10.18-16.10.29:029][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_Set_BB_Actor" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/BTT_Set_BB_Actor.uasset" SILENT=true
+[2018.10.18-16.10.29:064][349]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/BTT_Set_BB_Actor35B44D37476DE9A2D561B3814120D664.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/BTT_Set_BB_Actor.uasset'
+[2018.10.18-16.10.38:868][523]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/BTT_Set_BB_Bool.BTT_Set_BB_Bool
+[2018.10.18-16.11.20:803][452]BlueprintLog: New page: Compile BTT_Set_BB_Bool
+[2018.10.18-16.11.21:758][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_Set_BB_Bool" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/BTT_Set_BB_Bool.uasset" SILENT=true
+[2018.10.18-16.11.21:785][535]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/BTT_Set_BB_BoolD95191244CE3396604CA5BB973BC1BE4.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/BTT_Set_BB_Bool.uasset'
+[2018.10.18-16.12.18:461][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_backup" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.18-16.12.18:556][303]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/TestMap_backupD5CCCFD346EE988A0D030D92A30FE0DE.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup.umap'
+[2018.10.18-16.12.18:602][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_backup_BuiltData" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup_BuiltData.uasset" SILENT=true
+[2018.10.18-16.12.18:630][303]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/TestMap_backup_BuiltData2382FC964359F7BC526C598416A20A8F.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup_BuiltData.uasset'
+[2018.10.18-16.12.20:006][466]MapCheck: New page: Map Check
+[2018.10.18-16.12.20:015][466]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.18-16.12.20:015][466]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.18-16.12.20:119][466]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.10.18-16.12.20:124][466]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.10.18-16.12.20:131][466]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-16.12.20:131][466]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.18-16.12.20:138][466]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.18-16.12.20:148][466]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.12.20:148][466]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-16.12.20:148][466]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.10.18-16.12.20:895][466]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.12.20:895][466]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-16.12.20:895][466]TextureStreamingBuild: Display: Compiling optional shaders took 0.778 seconds.
+[2018.10.18-16.12.20:901][466]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2018.10.18-16.12.20:914][466]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2018.10.18-16.12.20:950][466]LightingResults: New page: Lighting Build - 18 Oct 2018 18:12:20
+[2018.10.18-16.12.20:961][466]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.18-16.12.20:962][466]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.18-16.12.20:962][466]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.18-16.12.20:963][466]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.18-16.12.20:963][466]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7916
+[2018.10.18-16.12.25:485][466]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.18-16.12.25:485][466]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.18-16.12.25:486][466]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.18-16.12.25:486][466]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.18-16.12.25:486][466]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.18-16.12.25:486][466]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.18-16.12.25:644][466]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.18-16.12.25:644][466]MapCheck: New page: TestMap_backup - 18 Oct 2018 18:12:25
+[2018.10.18-16.12.25:837][466]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 192.468ms to complete.
+[2018.10.18-16.12.25:861][466]LogEditorBuildUtils: Build time 0:05
+[2018.10.18-16.12.28:722][581]Job is a success!
+[2018.10.18-16.12.28:767][582]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2018.10.18-16.12.28:767][582]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.18-16.12.28:767][582]LogVolumetricLightmapImport:      BrickData 390x5x5 = 0.3Mb
+[2018.10.18-16.12.28:767][582]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.18-16.12.28:767][582]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2018.10.18-16.12.28:767][582]LogVolumetricLightmapImport:          1: 5.1% covering 6.3% of volume
+[2018.10.18-16.12.28:767][582]LogVolumetricLightmapImport:          2: 93.6% covering 1.8% of volume
+[2018.10.18-16.12.28:838][582]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.10.18-16.12.28:838][582]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.10.18-16.12.28:838][582]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.10.18-16.12.28:838][582]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.10.18-16.12.28:838][582]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.10.18-16.12.28:838][582]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.10.18-16.12.28:838][582]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 32X32)
+[2018.10.18-16.12.28:838][582]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 128X128)
+[2018.10.18-16.12.28:838][582]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 128X128)
+[2018.10.18-16.12.28:885][582]Lightmass on AMTX222-03: 1.22 sec total, 123 ms importing, 17 ms setup, 419 ms photons, 626 ms processing, 0 ms extra exporting [38/38 mappings]. Threads: 4.22 sec total, 889 ms processing.
+[2018.10.18-16.12.28:891][582]LogStaticLightingSystem: Illumination: 7.92 sec (31 ms encoding lightmaps, 23 ms encoding shadowmaps)
+[2018.10.18-16.12.28:891][582]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.1 MB streaming, 0.1 MB non-streaming), 6 textures
+[2018.10.18-16.12.28:891][582]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.10.18-16.12.29:491][582]DumpUnbuiltLightIteractions
+[2018.10.18-16.12.29:491][582]Lights with unbuilt interactions: 0
+[2018.10.18-16.12.29:491][582]
+[2018.10.18-16.12.29:491][582]Primitives with unbuilt interactions: 0
+[2018.10.18-16.12.29:606][583]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.18-16.12.29:606][583]MapCheck: New page: TestMap_backup - 18 Oct 2018 18:12:29
+[2018.10.18-16.12.29:686][583]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.143ms to complete.
+[2018.10.18-16.12.33:305][ 11]Candidate modules for hot reload:
+[2018.10.18-16.12.33:305][ 11]  MyProject
+[2018.10.18-16.12.33:306][ 11]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,1373 Win64 Development -TargetType=Editor -Project="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/MyProject.uproject" -canskiplink "C:/Temp/CMcRae/Where-s-Wally/MyProject/MyProject.uproject" ]
+[2018.10.18-16.12.33:325][ 11]Warning: Starting HotReload took  0.1s.
+[2018.10.18-16.12.35:464][257]CompilerResultsLog: New page: Compilation - 18 Oct 2018 18:12:35
+[2018.10.18-16.12.35:464][257]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.10.18-16.12.35:464][257]CompilerResultsLog: Compiling game modules for hot reload
+[2018.10.18-16.12.35:464][257]CompilerResultsLog: Target is up to date
+[2018.10.18-16.12.35:464][257]CompilerResultsLog: Total build time: 1.86 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.10.18-16.12.35:464][257]LogMainFrame: MainFrame: Module compiling took 2.163 seconds
+[2018.10.18-16.12.35:782][257]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2575 classes and 607 folders.
+[2018.10.18-16.12.35:782][257]Display: HotReload took  2.5s.
+[2018.10.18-16.18.17:063][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIEnemyBT" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBT.uasset" SILENT=true
+[2018.10.18-16.18.17:099][465]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/AIEnemyBT521D2EC1494EDE387B34A1922ACCD32D.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/AI/AIEnemyBT.uasset'
+[2018.10.18-16.18.22:079][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_backup" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.18-16.18.22:223][ 52]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/TestMap_backupF0F8A46A4284AF04E9441F8D49929EE5.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup.umap'
+[2018.10.18-16.18.22:263][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_backup_BuiltData" FILE="../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup_BuiltData.uasset" SILENT=true
+[2018.10.18-16.18.22:300][ 52]LogSavePackage: Moving '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Saved/TestMap_backup_BuiltDataE9D7B38B41B6374B2372FC877C7254A8.tmp' to '../../../../../../Temp/CMcRae/Where-s-Wally/MyProject/Content/Maps/TestMap_backup_BuiltData.uasset'

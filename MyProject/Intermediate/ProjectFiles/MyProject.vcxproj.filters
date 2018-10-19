@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\MyProject.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{B34BB713-1B54-46FB-9AEA-738D0B09D59D}</UniqueIdentifier>
+			<UniqueIdentifier>{D6423A55-F50E-44F6-9FDF-9F4D4AED62A9}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\MyProject.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{97056770-FB91-45EC-A7D4-EF55ACD2E6F5}</UniqueIdentifier>
+			<UniqueIdentifier>{DB26407A-27D6-4B0E-B6D6-8C5BD2B30A6B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,8 +28,14 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\MyProject">
-			<UniqueIdentifier>{31F923F1-0C0C-420D-97C5-3608C2BCA255}</UniqueIdentifier>
+			<UniqueIdentifier>{8EF33029-C4F5-48FE-B8EA-0F82FBF618E1}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\MyProject\DestroyActorOnOverlap.cpp">
+			<Filter>Source\MyProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyProject\DestroyActorOnOverlap.h">
+			<Filter>Source\MyProject</Filter>
+		</ClInclude >
 		<None Include="..\..\Source\MyProject\MyProject.Build.cs">
 			<Filter>Source\MyProject</Filter>
 		</None >

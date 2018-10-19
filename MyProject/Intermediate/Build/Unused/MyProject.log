@@ -1,25 +1,23 @@
-﻿  Performing full C++ include scan (building a new target)
-  Using 'git status' to determine working set for adaptive non-unity build.
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
   Creating makefile for MyProjectEditor (no existing makefile)
-  Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726) and Windows 10.0.15063.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Performing full C++ include scan (no include cache file)
+  Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Parsing headers for MyProjectEditor
-    Running UnrealHeaderTool "C:\Temp\CMcRae\Where-s-Wally\MyProject\MyProject.uproject" "C:\Temp\CMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for MyProjectEditor in 8.9802281 seconds
-  Deleting old hot reload file: "C:\Temp\CMcRae\Where-s-Wally\MyProject\Binaries\Win64\UE4Editor-MyProject-3821.dll".
-  Deleting old hot reload file: "C:\Temp\CMcRae\Where-s-Wally\MyProject\Binaries\Win64\UE4Editor-MyProject-3821.pdb".
-  Deleting old hot reload file: "C:\Temp\CMcRae\Where-s-Wally\MyProject\Binaries\Win64\UE4Editor-MyProject-9862.dll".
-  Deleting old hot reload file: "C:\Temp\CMcRae\Where-s-Wally\MyProject\Binaries\Win64\UE4Editor-MyProject-9862.pdb".
-  Building 9 actions with 8 processes...
-    SharedPCH.Engine.cpp
-    MyProjectGameModeBase.cpp
-    MyProject.init.gen.cpp
-    MyProject.cpp
-    Wally.cpp
-    Wally.gen.cpp
-    MyProjectGameModeBase.gen.cpp
-    UE4Editor-MyProject.lib
-       Creating library C:\Temp\CMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.lib and object C:\Temp\CMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.exp
-    UE4Editor-MyProject.dll
-       Creating library C:\Temp\CMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.suppressed.lib and object C:\Temp\CMcRae\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.suppressed.exp
+    Running UnrealHeaderTool "C:\Uni\Year 3\Where-s-Wally\MyProject\MyProject.uproject" "C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MyProjectEditor in 48.8766183 seconds
+  Building 11 actions with 4 processes...
+    [1/11] SharedPCH.Engine.cpp
+    [2/11] DestroyActorOnOverlap.gen.cpp
+    [3/11] MyProject.cpp
+    [4/11] MyProject.init.gen.cpp
+    [5/11] MyProjectGameModeBase.cpp
+    [6/11] Wally.cpp
+    [7/11] DestroyActorOnOverlap.cpp
+    [8/11] MyProjectGameModeBase.gen.cpp
+    [9/11] Wally.gen.cpp
+    [10/11] UE4Editor-MyProject.lib
+       Creating library C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.lib and object C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.exp
+    [11/11] UE4Editor-MyProject.dll
+       Creating library C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.suppressed.lib and object C:\Uni\Year 3\Where-s-Wally\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.suppressed.exp
   Deploying MyProjectEditor Win64 Development...
-  Total build time: 51.24 seconds (Parallel executor: 29.91 seconds)
+  Total build time: 319.72 seconds (Parallel executor: 61.84 seconds)
